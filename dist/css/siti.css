@@ -14,8 +14,9 @@
 .brand{
 	margin-top: -70px;
 	min-height: 500px;
-	background-image: url('../../img/restaurant.jpg');
-	background-image: no-repeat;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 
 .mrg{
@@ -55,4 +56,24 @@
 .green{
 	color: #A1A61A;
 	line-height: 42px;
+}
+
+.chef{
+	margin-left: 55px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 20%;
+	height: 20%;
+}
+
+.imgchef{
+
+}
+
+.box{
+	background-color: #f3f2e9;
+}
+
+.textbox{
+	margin-top: -30px;
 }
