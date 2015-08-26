@@ -1,0 +1,20 @@
+{
+  "name": "desainW3S",
+  "version": "1.0.0",
+  "description": "desain w3schools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "desain",
+    "w3schools"
+  ],
+  "author": "saeful yusuf",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^2.2.5",
+    "morgan": "^1.6.1"
+  }
+}

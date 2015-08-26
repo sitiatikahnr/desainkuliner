@@ -1,0 +1,24 @@
+{
+  "name": "desainW3S",
+  "version": "0.0.0",
+  "authors": [
+    "saeful_y <saeful@lussa.net>"
+  ],
+  "description": "desain w3schools",
+  "main": "index.html",
+  "keywords": [
+    "desain"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}

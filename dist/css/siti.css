@@ -1,0 +1,13 @@
+.brand{
+	margin-top: -70px;
+	min-height: 500px;
+}
+
+.header{
+	background: transparent;
+}
+
+li.header{
+	text-decoration: none;
+	color: black;
+}
