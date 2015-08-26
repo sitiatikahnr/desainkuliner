@@ -3,6 +3,10 @@
 	min-height: 500px;
 }
 
+.mrg{
+	margin-top: 10px;
+}
+
 .header{
 	background: transparent;
 }
