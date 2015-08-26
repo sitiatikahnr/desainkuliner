@@ -1,3 +1,16 @@
+@font-face {
+	font-family: 'Courgete';
+	src: url('../fonts/courgette-regular-webfont.eot');
+	src: url('../fonts/courgette-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/courgette-regular-webfont.woff') format('woff'),
+		 url('../fonts/courgette-regular-webfont.woff2') format('woff2'),
+		 url('../fonts/courgette-regular-webfont.ttf') format('truetype'),
+		 url('../fonts/courgette-regular-webfont.svg#courgetteregular') format('svg');
+
+	font-weight: normal;
+	font-style: normal;
+}
+
 .brand{
 	margin-top: -70px;
 	min-height: 500px;
@@ -11,7 +24,28 @@
 	background: transparent;
 }
 
-li.header{
-	text-decoration: none;
-	color: black;
+.font{
+	font-family: 'Courgete';
+}
+
+.small{
+	font-size: 14px;
+}
+
+.large{
+	font-size: 35px;
+}
+
+.medium{
+	font-size: 20px;
+}
+
+.black{
+	color: #444;
+	line-height: 42px;
+}
+
+.green{
+	color: #A1A61A;
+	line-height: 42px;
 }
