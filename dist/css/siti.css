@@ -104,11 +104,15 @@ a:hover.btn{
 	margin-top: 20px;
 }
 
-.v{
+.vbell{
+	cursor: pointer;
+	border-radius: 5px;
+	text-decoration: none;
 	background-color: #A1A61A;
-	background-size: 10px;
 	color: #fff;
-	padding-bottom: 10px;
-	padding-left: 5px;
-	padding-right: 2px;
+	margin-bottom: 5%;
+  	border-color: #A1A61A;
+  	padding: 10px 15px;
+  	font-size: 14px;
+  	margin-bottom: 40px;
 }
